@@ -1,6 +1,13 @@
-#Twitter API and SDK tools:
+# Twitter API and SDK tools:
 
-[installing SDK in raspberrypi] 
+## Installing SDK in raspberrypi
+
+```
+sudo apt-get update
+sudo apt-get install python-pip
+pip
+sudo pip install twython
+````
 
 
 
