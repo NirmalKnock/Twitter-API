@@ -12,5 +12,7 @@ sudo pip install twython
 ### To register your app you need to setup an account in
 Go to this website :[Register here](https://developer.twitter.com/en/apps)
 
+### We need an 4 keys to access like Consumer API keys and Access token and Access token Secret
+
 
 
