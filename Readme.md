@@ -15,7 +15,7 @@ Go to this website :[Register here](https://developer.twitter.com/en/apps)
 ### We need an 4 keys to access like Consumer API keys and Access token and Access token Secret
 
 ## Final Result:
-![https://github.com/NirmalKnock/images/blob/master/twit.jpg]
+![Twython](https://github.com/NirmalKnock/images/blob/master/twit.jpg)
 
 
 
